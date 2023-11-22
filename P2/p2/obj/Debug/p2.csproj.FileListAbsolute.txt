@@ -1,0 +1,11 @@
+C:\Users\rhamada\Desktop\Estudo\p2\p2\bin\Debug\p2.exe.config
+C:\Users\rhamada\Desktop\Estudo\p2\p2\bin\Debug\p2.exe
+C:\Users\rhamada\Desktop\Estudo\p2\p2\bin\Debug\p2.pdb
+C:\Users\rhamada\Desktop\Estudo\p2\p2\obj\Debug\p2.csproj.AssemblyReference.cache
+C:\Users\rhamada\Desktop\Estudo\p2\p2\obj\Debug\p2.Form1.resources
+C:\Users\rhamada\Desktop\Estudo\p2\p2\obj\Debug\p2.Properties.Resources.resources
+C:\Users\rhamada\Desktop\Estudo\p2\p2\obj\Debug\p2.csproj.GenerateResource.cache
+C:\Users\rhamada\Desktop\Estudo\p2\p2\obj\Debug\p2.csproj.CoreCompileInputs.cache
+C:\Users\rhamada\Desktop\Estudo\p2\p2\obj\Debug\p2.exe
+C:\Users\rhamada\Desktop\Estudo\p2\p2\obj\Debug\p2.pdb
+C:\Users\rhamada\Desktop\Estudo\p2\p2\obj\Debug\p2.Form2.resources
